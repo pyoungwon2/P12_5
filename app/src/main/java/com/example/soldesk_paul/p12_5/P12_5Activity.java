@@ -1,5 +1,7 @@
 package com.example.soldesk_paul.p12_5;
 
+// 솔데스크 프로젝트 5팀 2016.09.05
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
